@@ -1,0 +1,1 @@
+"""Long-lived services used by the host. Not part of the plugin API."""
